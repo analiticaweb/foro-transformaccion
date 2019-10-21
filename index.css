@@ -58,16 +58,10 @@ body{
     width: 100%;
     max-width: 100px;
 }
-.fixed{
-    position: fixed;
-    bottom: 0px;
-}
-.internexa-container{
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-}
 .img-internexa{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
     width: 100%;
     max-width: 300px;
     margin-bottom: -15px;
