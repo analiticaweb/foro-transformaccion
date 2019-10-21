@@ -13,26 +13,26 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 CLASS:PUBLIC
-CREATED:20191021T134449Z
+CREATED:20191021T172940Z
 DESCRIPTION: \n
 DTEND;TZID="SA Pacific Standard Time":20191024T130000
-DTSTAMP:20191021T134449Z
+DTSTAMP:20191021T172940Z
 DTSTART;TZID="SA Pacific Standard Time":20191024T070000
-LAST-MODIFIED:20191021T134449Z
+LAST-MODIFIED:20191021T172940Z
 LOCATION:JW Marriott Hotel Bogota\, Calle 73 Nr 8-60\, Bogota\, Cundinamarc
 	a\, Colombia
 PRIORITY:5
 SEQUENCE:0
-SUMMARY;LANGUAGE=es-co:Foro Transformación Digital - Internexa
+SUMMARY;LANGUAGE=es-co:Foro Transformacción Digital - Internexa
 TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E00800000000100781CCEB87D501000000000000000
-	0100000009C693BA0CE63E44DB5F7F62306CCBA8B
+UID:040000008200E00074C5B7101A82E0080000000080D690350B88D501000000000000000
+	010000000654B9362B262AF44B1576FA03366267A
 X-ALT-DESC;FMTTYPE=text/html:<html xmlns:o="urn:schemas-microsoft-com:offic
 	e:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://
 	schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC
 	-html40"><head><meta name=ProgId content=Word.Document><meta name=Generato
 	r content="Microsoft Word 15"><meta name=Originator content="Microsoft Wor
-	d 15"><link rel=File-List href="cid:filelist.xml@01D587EB.5E200A00"><!--[i
+	d 15"><link rel=File-List href="cid:filelist.xml@01D5880B.151E6930"><!--[i
 	f gte mso 9]><xml>\n<o:OfficeDocumentSettings>\n<o:AllowPNG/>\n</o:OfficeD
 	ocumentSettings>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<w:WordDocum
 	ent>\n<w:TrackMoves/>\n<w:TrackFormatting/>\n<w:HyphenationZone>21</w:Hyph
