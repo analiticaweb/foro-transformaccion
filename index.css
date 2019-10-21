@@ -1,0 +1,98 @@
+*{
+    padding: 0px;
+    margin:0px;
+    font-family: sans-serif;
+}
+body{
+    background: url(recursos/fondo.png);
+    background-size: cover;
+    background-position: center center;
+    overflow-x: hidden;
+    
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.foro-container{
+    text-align: center;
+}
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-25{
+    width: 25%;
+}
+.col-50{
+    width: 50%;
+}
+.col-15{
+    width: 15%;
+}
+.col-60{
+    width: 60%;
+}
+.col-100{
+    width: 100%;
+}
+.img-container{
+    justify-content: center;
+    align-items: flex-end;
+}
+.img-foro{
+    width:100%;
+}
+.img-fecha{
+    width: 100%;
+    margin-left: 15px;
+}
+.calendarios{
+    display: flex;
+    justify-content: space-around;
+}
+.img-calendarios{
+    width: 100%;
+    max-width: 100px;
+}
+.fixed{
+    position: fixed;
+    bottom: 0px;
+}
+.internexa-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.img-internexa{
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: -15px;
+}
+@media (max-width: 800px){
+    .col-sm-100{
+        width: 100%;
+    }
+    .col-sm-50{
+        width: 50%;
+    }
+    .col-sm-0{
+        width: 0%;
+    }
+    .sm-order-1{
+        order: 1;
+    }
+    .sm-order-2{
+        order: 2;
+    }
+    .sm-order-3{
+        order: 3;
+    }
+    .sm-order-4{
+        order: 4;
+    }
+    .img-foro{
+        width: 80%;
+    }
+}
